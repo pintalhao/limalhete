@@ -5,3 +5,5 @@ Receita pintalhona de licor de limão.
 * água pela metade da aguardente
 * açucar a gosto
 * limão qb
+
+![QR Code](https://raw.githubusercontent.com/pintalhao/limalhete/main/qr_limalhete.png)
